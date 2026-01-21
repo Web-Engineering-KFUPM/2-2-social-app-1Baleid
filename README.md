@@ -11,7 +11,8 @@ A single-page, HTML-only mini app featuring:
 - A navigation area with internal anchors and an external link
 - A posts list where each post is wrapped in its own container
 - A create-post form with proper labels, ids, names, placeholders, and required fields
-- A footer section
+- A footer section 
+
 
 ## Prerequisites
 - Any modern web browser (Chrome, Firefox, Safari, Edge)
